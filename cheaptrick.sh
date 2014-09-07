@@ -129,7 +129,7 @@ echo "$u	*	$p	*" >> /etc/ppp/chap-secrets
 
 echo
 echo "===================================="
-echo "User PPTP Sukses dibuat!"
+echo "User PPTP Sukses di buat!"
 echo "Silahkan konek VPN PPTP $ip dengan user & pass berikut:"
 echo "Username:$u ##### Password: $p"
 echo "===================================="
